@@ -1,7 +1,7 @@
 ### Olá, eu sou o Gustavo José
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavow_jose/)
 
-![GustavoJossstats](https://github-readme-stats.vercel.app/api?username=GustavoJoss&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoJoss&show_icons=true&theme=radical)
 
 ### Atualmente estou cursando Sistemas de informação na Universidade Federal de Lavras
 
